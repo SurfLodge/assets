@@ -13,188 +13,124 @@
     },
     "tokens": [
         {
-            "address": "0xc579D1f3CF86749E05CD06f7ADe17856c2CE3126",
-            "chainId": 106,
-            "name": "Wrapped Velas",
-            "symbol": "WVLX",
+            "address": "0xC9BdeEd33CD01541e1eeD10f90519d2C06Fe3feB", 
+            "chainId": 1313161554,
+            "name": "Wrapped Ethereum",
+            "symbol": "WETH",
             "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/9651/large/velas.png"
+            "logoURI": "https://assets.coingecko.com/coins/images/279/small/ethereum.png"
         },
         {
-            "address": "0xe2C120f188eBd5389F71Cf4d9C16d05b62A58993",
-            "chainId": 106,
+            "address": "0xb12bfca5a55806aaf64e99521918a4bf0fc40802", 
+            "chainId": 1313161554,
             "name": "USD Coin",
             "symbol": "USDC",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png"
         },
         {
-            "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
-            "chainId": 106,
+            "address": "0xe3520349F477A5F6EB06107066048508498A291b", 
+            "chainId": 1313161554,
             "name": "Dai Stablecoin",
             "symbol": "DAI",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png"
         },
         {
-            "address": "0x639A647fbe20b6c8ac19E48E2de44ea792c62c5C",
-            "chainId": 106,
+            "address": "0xF4eB217Ba2454613b15dBdea6e5f22276410e89e", 
+            "chainId": 1313161554,
             "name": "Wrapped BTC",
             "symbol": "WBTC",
             "decimals": 8,
             "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png"
         },
         {
-            "address": "0x01445C31581c354b7338AC35693AB2001B50b9aE",
-            "chainId": 106,
+            "address": "0x4988a896b1227218e4A686fdE5EabdcAbd91571f",  
+            "chainId": 1313161554,
             "name": "Tether USD",
             "symbol": "USDT",
             "decimals": 6,
             "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png"
         },
         {
-            "address": "0xc111c29A988AE0C0087D97b33C6E6766808A3BD3",
-            "chainId": 106,
-            "name": "Multichain BUSD",
-            "symbol": "BUSD",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/9576/large/BUSD.png"
-        },
-        {
-            "address": "0xaBf26902Fd7B624e0db40D31171eA9ddDf078351",
-            "chainId": 106,
-            "name": "WagyuSwap Token",
-            "symbol": "WAG",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/18225/large/maoZ8h22_400x400.jpg"
-        },
-        {
-            "address": "0xcD7509b76281223f5B7d3aD5d47F8D7Aa5C2B9bf",
-            "chainId": 106,
-            "name": "USD Velero Stablecoin",
-            "symbol": "USDV",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/24523/large/usdv.PNG"
-        },
-        {
-            "address": "0x85219708c49aa701871Ad330A94EA0f41dFf24Ca",
-            "chainId": 106,
-            "name": "Ethereum",
-            "symbol": "ETH",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png"
-        },
-        {
-            "address": "0x2217e5921B7edfB4BB193a6228459974010D2198",
-            "chainId": 106,
-            "name": "Qmall Token",
-            "symbol": "QMALL",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/23630/large/tjVN6bQ5_400x400.jpg"
-        },
-        {
-            "address": "0xa065e0858417Dfc7abC6f2BD4D0185332475C180",
-            "chainId": 106,
-            "name": "VELASPAD.io",
-            "symbol": "VLXPAD",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/18535/large/11654.png"
-        },
-        {
-            "address": "0x8d9fB713587174Ee97e91866050c383b5cEE6209",
-            "chainId": 106,
-            "name": "VELHALLA.io",
-            "symbol": "SCAR",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/20421/large/velha.jpg"
-        },
-        {
-            "address": "0x72eB7CA07399Ec402c5b7aa6A65752B6A1Dc0C27",
-            "chainId": 106,
-            "name": "ASTROSWAP.app",
-            "symbol": "ASTRO",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/18816/large/astro.png"
-        },
-        {
-            "address": "0x8a74BC8c372bC7f0E9cA3f6Ac0df51BE15aEC47A",
-            "chainId": 106,
-            "name": "PULSEPAD.io",
-            "symbol": "PLSPAD",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/20102/large/Mypk8PG_-_Imgur.jpg"
-        },
-        {
-            "address": "0x9Ab70e92319f0b9127df78868Fd3655fB9f1E322",
-            "chainId": 106,
-            "name": "WeWay Token",
-            "symbol": "WWY",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/22418/large/aeYkGywy_400x400.jpg"
-        },
-        {
-            "address": "0x62858686119135cc00C4A3102b436a0eB314D402",
-            "chainId": 106,
-            "name": "METAVPAD.com",
-            "symbol": "METAV",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/21397/large/metav.png"
-        },
-        {
-            "address": "0x09bcE7716D46459DF7473982Fd27A96EabD6eE4d",
-            "chainId": 106,
-            "name": "Bitorbit",
-            "symbol": "BITORB",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/19850/large/bitorbit.png"
-        },
-        {
-            "address": "0xd12f7A98C0d740E7Ec82E8caF94EB79C56D1B623",
-            "chainId": 106,
-            "name": "VDGT",
-            "symbol": "VDGT",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/23925/large/18282.png"
-        },
-        {
-            "address": "0x54c159b71262878Bf096b45a3c6A8FD0a3250B10",
-            "chainId": 106,
-            "name": "BE META FAMOUS",
-            "symbol": "BMF",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/25192/large/Meta_Fame_Token.png"
-        },
-        {
-            "address": "0x32561fA6D2D3E2191bF50f813DF2C34fb3C89B62",
-            "chainId": 106,
-            "name": "VERVETV.app ",
-            "symbol": "VERVE",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/22804/large/16902.png"
-        },
-        {
-            "address": "0x9b6fbF0ea23faF0d77B94d5699B44062e5E747Ac",
-            "chainId": 106,
-            "name": "Swapz",
-            "symbol": "SWAPZ",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/16811/large/EWV5xQB.jpeg"
-        },
-        {
-            "address": "0x6ab0B8C1a35F9F4Ce107cCBd05049CB1Dbd99Ec5",
-            "chainId": 106,
+            "address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+            "chainId": 1313161554,
             "name": "Polygon",
             "symbol": "MATIC",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png"
         },
         {
-            "address": "0x525Bd1f949ffA2a0c5820F3B6FE61Bb897466fF7",
-            "chainId": 106,
+            "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+            "chainId": 1313161554,
             "name": "Avalanche",
             "symbol": "AVAX",
             "decimals": 18,
             "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png"
+        },
+        {
+            "address": "0xC42C30aC6Cc15faC9bD938618BcaA1a1FaE8501d",
+            "chainId": 1313161554,
+            "name": "Near",
+            "symbol": "NEAR",
+            "decimals": 24,
+            "logoURI": "https://assets.coingecko.com/coins/images/10365/large/near_icon.png"
+        },
+        {
+            "address": "0xFa94348467f64D5A457F75F8bc40495D33c65aBB",
+            "chainId": 1313161554,
+            "name": "Trisolaris",
+            "symbol": "TRI",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20607/large/logo_-_2021-11-19T104946.772.png"
+        },
+        {
+            "address": "0x8BEc47865aDe3B172A928df8f990Bc7f2A3b9f79",
+            "chainId": 1313161554,
+            "name": "Aurora",
+            "symbol": "AURORA",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/20582/small/aurora.jpeg"
+        },
+        {
+            "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+            "chainId": 1313161554,
+            "name": "Bastion",
+            "symbol": "BSTN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24228/large/1_hm7Nmrw_PmniLj3zlzIdZA.png"
+        },
+        {
+            "address": "0x9f1F933C660a1DC856F0E0Fe058435879c5CCEf0",
+            "chainId": 1313161554,
+            "name": "Bastion",
+            "symbol": "BSTN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24228/large/1_hm7Nmrw_PmniLj3zlzIdZA.png"
+        },
+        {
+            "address": "0x5183e1B1091804BC2602586919E6880ac1cf2896",
+            "chainId": 1313161554,
+            "name": "USN Coin",
+            "symbol": "USN",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/24930/large/download.png"
+        },
+        {
+            "address": "0xea62791aa682d455614eaA2A12Ba3d9A2fD197af",
+            "chainId": 1313161554,
+            "name": "Flux Token",
+            "symbol": "FLX",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/21137/large/flux-flx.jpeg"
+        },
+        {
+            "address": "0xdcD6D4e2B3e1D1E1E6Fa8C21C8A323DcbecfF970",
+            "chainId": 1313161554,
+            "name": "Rose Token",
+            "symbol": "ROSE",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/22104/large/rose.PNG"
         }
     ]
 }
