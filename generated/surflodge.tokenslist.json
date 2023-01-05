@@ -1,27 +1,27 @@
 {
     "ms": 52,
-    "query": "{\n  \"name\": \"WaveLength\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 137,\n      logoURI\n   }\n}",
+    "query": "{\n  \"name\": \"SurfLodge\",\n  \"timestamp\": \"2021-10-06T18:18:18.181Z\",\n  \"version\": {\n    \"major\": 1,\n    \"minor\": 0,\n    \"patch\": 2\n  },\n  \"tags\": {},\n  \"logoURI\": \"https://raw.githubusercontent.com/WaveLength/assets/main/assets/0xe1F2F1b7088A1Ee05d444B142De457303c7f342e.png\",\n  \"keywords\": [\n    \"beethoven\",\n    \"default\",\n    \"fantom\"\n  ],\n  \"tokens\": *[_type == \"fantomToken\"]{\n      name,\n      address,\n      symbol,\n      decimals,\n      \"chainId\": 137,\n      logoURI\n   }\n}",
     "result": {
         "keywords": [
             "surf",
             "default",
             "velas"
         ],
-        "logoURI": "https://raw.githubusercontent.com/wavelength-velas/assets/main/assets/wavelength_logo.png",
-        "name": "WaveLength",
+        "logoURI": "https://raw.githubusercontent.com/SurfLodge/assets/main/assets/surf_logo.png",
+        "name": "SurfLodge",
         "tags": {},
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
             {
-                "address": "",
+                "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
                 "chainId": 137,
                 "decimals": 18,
-                "logoURI": "https://assets.coingecko.com/coins/images/9651/large/velas.png",
+                "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
                 "name": "Wrapped Matic",
                 "symbol": "WMATIC"
             },
             {
-                "address": "",
+                "address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174",
                 "chainId": 137,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/6319/large/USD_Coin_icon.png",
@@ -29,7 +29,7 @@
                 "symbol": "USDC"
             },
             {
-                "address": "",
+                "address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063",
                 "chainId": 137,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/9956/large/4943.png",
@@ -37,7 +37,7 @@
                 "symbol": "DAI"
             },
             {
-                "address": "",
+                "address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6",
                 "chainId": 137,
                 "decimals": 8,
                 "logoURI": "https://assets.coingecko.com/coins/images/1/large/bitcoin.png",
@@ -45,7 +45,7 @@
                 "symbol": "WBTC"
             },
             {
-                "address": "",
+                "address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f",
                 "chainId": 137,
                 "decimals": 6,
                 "logoURI": "https://assets.coingecko.com/coins/images/325/large/Tether-logo.png",
@@ -53,7 +53,7 @@
                 "symbol": "USDT"
             },
             {
-                "address": "",
+                "address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619",
                 "chainId": 137,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/279/large/ethereum.png",
@@ -61,15 +61,15 @@
                 "symbol": "ETH"
             },
             {
-                "address": "",
+                "address": "0x7DfF46370e9eA5f0Bad3C4E29711aD50062EA7A4",
                 "chainId": 137,
                 "decimals": 18,
-                "logoURI": "https://assets.coingecko.com/coins/images/4713/large/matic-token-icon.png",
-                "name": "Polygon",
-                "symbol": "MATIC"
+                "logoURI": "https://assets.coingecko.com/coins/images/4128/large/solana.png",
+                "name": "Solana",
+                "symbol": "SOL"
             },
             {
-                "address": "",
+                "address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
                 "chainId": 137,
                 "decimals": 18,
                 "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png",
