@@ -1,0 +1,29 @@
+{
+  "result": {
+    "blacklistedPools": [
+      "0xb8dfe6d3b75a2e4d7968559f7be7b2be11fc1104",
+      "0x98b6a22e38d6d607d20e13a32132204ed4c294be",
+      "0x61803ad7d30b299480f3acd3a34a6ee0c90c11f8",
+      "0x60de191c0c72f75f0d3c8094f91524bf2d122c98",
+      "0x37c2324b0100acc4dc17f50738ce25b530d5cc3b",
+      "0x0d90579bddf8241ea2ff0a7e69225dfae5b0553"
+    ],
+    "chainId": 137,
+    "incentivizedPools": [
+      "0x029F71FDEFf3De3b33A761A7e3dAF43D8C93b39b",
+      "0x8923A464D81BB45644b8218987D0f18Fbb655eC7",
+      "0xC16A917390CB9E2510bBc7112A8726041eE53B20",
+      "0x5D0d5609867aE4658d7760D6C08f4c29184C98D5",
+      "0xAc502a08d20806EAb0b1f9C0316237a0788d7786",
+      "0xd569aa543ba2f643a337813a5030e9bcb9cd332f",
+      "0x7b99bcda92c3f34430a0875740d8d48b7a73a06e",
+    ],
+    "pausedPools": [],
+    "featuredPools": [
+      "0x029F71FDEFf3De3b33A761A7e3dAF43D8C93b39b",
+      "0x8923A464D81BB45644b8218987D0f18Fbb655eC7",
+      "0x7b99bcda92c3f34430a0875740d8d48b7a73a06e",
+      "0x5D0d5609867aE4658d7760D6C08f4c29184C98D5"
+    ]
+  }
+}
