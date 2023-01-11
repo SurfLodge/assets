@@ -75,12 +75,19 @@
                 "logoURI": "https://assets.coingecko.com/coins/images/12559/large/coin-round-red.png",
                 "name": "Avalanche",
                 "symbol": "AVAX"
+            },
+            {   "address": "0x026a3918A6D6F7B7b1b6887B8B650143b5d04732",
+                "chainId": 137,
+                "decimals": 18,
+                "logoURI": "https://raw.githubusercontent.com/SurfLodge/assets/main/assets/0x026a3918A6D6F7B7b1b6887B8B650143b5d04732.png",
+                "name": "Surflodge Token",
+                "symbol": "SURF"
             }
         ],
         "version": {
             "major": 1,
             "minor": 0,
-            "patch": 2
+            "patch": 3
         }
     }
 }
